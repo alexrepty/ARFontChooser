@@ -1,0 +1,8 @@
+This project demonstrates the use of a very simple font chooser for iPhone OS devices.
+
+The font chooser is implemented as a UITableViewController subclass with a delegate protocol for notification purposes.
+
+Ideas for the future:
+- add a filter, so only fonts are displayed that people may actually want to use
+- sorting
+
