@@ -1,0 +1,298 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FontPickerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{7, 21}";
+			sepNavVisRange = "{0, 1997}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FontPickerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{30, 0}";
+			sepNavVisRange = "{0, 2133}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FontPicker */ = {
+		activeExec = 0;
+		executables = (
+			B46535E5114E2C91003E32EF /* FontPicker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FontPickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{7, 24}";
+			sepNavVisRange = "{0, 1938}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FontPickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{33, 0}";
+			sepNavVisRange = "{0, 2384}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B46535E5114E2C91003E32EF /* FontPicker */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FontPicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FontPicker */,
+		);
+		codeSenseManager = B46535F0114E2CB0003E32EF /* Code sense */;
+		executables = (
+			B46535E5114E2C91003E32EF /* FontPicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1157,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290335889;
+			PBXWorkspaceStateSaveDate = 290335889;
+		};
+		perUserProjectItems = {
+			B4653602114E349F003E32EF /* PBXTextBookmark */ = B4653602114E349F003E32EF /* PBXTextBookmark */;
+			B4653604114E349F003E32EF /* PBXTextBookmark */ = B4653604114E349F003E32EF /* PBXTextBookmark */;
+			B4653606114E349F003E32EF /* PBXTextBookmark */ = B4653606114E349F003E32EF /* PBXTextBookmark */;
+			B4653607114E349F003E32EF /* PBXTextBookmark */ = B4653607114E349F003E32EF /* PBXTextBookmark */;
+			B4653608114E349F003E32EF /* PBXTextBookmark */ = B4653608114E349F003E32EF /* PBXTextBookmark */;
+			B4653609114E349F003E32EF /* PBXTextBookmark */ = B4653609114E349F003E32EF /* PBXTextBookmark */;
+			B465360A114E349F003E32EF /* PBXTextBookmark */ = B465360A114E349F003E32EF /* PBXTextBookmark */;
+			B465360B114E349F003E32EF /* PBXTextBookmark */ = B465360B114E349F003E32EF /* PBXTextBookmark */;
+			B465360C114E349F003E32EF /* PBXTextBookmark */ = B465360C114E349F003E32EF /* PBXTextBookmark */;
+			B465360D114E349F003E32EF /* PBXTextBookmark */ = B465360D114E349F003E32EF /* PBXTextBookmark */;
+			B465360E114E349F003E32EF /* PlistBookmark */ = B465360E114E349F003E32EF /* PlistBookmark */;
+			B465360F114E349F003E32EF /* PlistBookmark */ = B465360F114E349F003E32EF /* PlistBookmark */;
+		};
+		sourceControlManager = B46535EF114E2CB0003E32EF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{13, 0}";
+			sepNavVisRange = "{0, 1864}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* FontPicker_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	B46535E5114E2C91003E32EF /* FontPicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FontPicker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B46535EF114E2CB0003E32EF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B46535F0114E2CB0003E32EF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B46535F3114E2E12003E32EF /* ARFontPickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 823}}";
+			sepNavSelRange = "{156, 0}";
+			sepNavVisRange = "{0, 2093}";
+		};
+	};
+	B46535F4114E2E12003E32EF /* ARFontPickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 1274}}";
+			sepNavSelRange = "{86, 0}";
+			sepNavVisRange = "{0, 2827}";
+		};
+	};
+	B4653602114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4653603114E349F003E32EF /* UITableView.h */;
+		name = "UITableView.h: 311";
+		rLen = 62;
+		rLoc = 16111;
+		rType = 0;
+		vrLen = 3695;
+		vrLoc = 14433;
+	};
+	B4653603114E349F003E32EF /* UITableView.h */ = {
+		isa = PBXFileReference;
+		name = UITableView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h;
+		sourceTree = "<absolute>";
+	};
+	B4653604114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B4653605114E349F003E32EF /* UITableViewController.h */;
+		name = "UITableViewController.h: 17";
+		rLen = 19;
+		rLoc = 694;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 0;
+	};
+	B4653605114E349F003E32EF /* UITableViewController.h */ = {
+		isa = PBXFileReference;
+		name = UITableViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewController.h;
+		sourceTree = "<absolute>";
+	};
+	B4653606114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B46535F3114E2E12003E32EF /* ARFontPickerViewController.h */;
+		name = "ARFontPickerViewController.h: 8";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 2093;
+		vrLoc = 0;
+	};
+	B4653607114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FontPickerAppDelegate.h */;
+		name = "FontPickerAppDelegate.h: 2";
+		rLen = 21;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 1997;
+		vrLoc = 0;
+	};
+	B4653608114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FontPickerViewController.h */;
+		name = "FontPickerViewController.h: 2";
+		rLen = 24;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 1938;
+		vrLoc = 0;
+	};
+	B4653609114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FontPicker_Prefix.pch */;
+		name = "FontPicker_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	B465360A114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 2";
+		rLen = 0;
+		rLoc = 13;
+		rType = 0;
+		vrLen = 1864;
+		vrLoc = 0;
+	};
+	B465360B114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FontPickerViewController.m */;
+		name = "FontPickerViewController.m: 2";
+		rLen = 0;
+		rLoc = 33;
+		rType = 0;
+		vrLen = 2384;
+		vrLoc = 0;
+	};
+	B465360C114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FontPickerAppDelegate.m */;
+		name = "FontPickerAppDelegate.m: 2";
+		rLen = 0;
+		rLoc = 30;
+		rType = 0;
+		vrLen = 2133;
+		vrLoc = 0;
+	};
+	B465360D114E349F003E32EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B46535F4114E2E12003E32EF /* ARFontPickerViewController.m */;
+		name = "ARFontPickerViewController.m: 5";
+		rLen = 0;
+		rLoc = 86;
+		rType = 0;
+		vrLen = 2827;
+		vrLoc = 0;
+	};
+	B465360E114E349F003E32EF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FontPicker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/arepty/FontPicker/FontPicker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	B465360F114E349F003E32EF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FontPicker-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/arepty/FontPicker/FontPicker-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
